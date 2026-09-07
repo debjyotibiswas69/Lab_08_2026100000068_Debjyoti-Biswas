@@ -13,12 +13,11 @@ Git is a distributed version control system that tracks changes in any set of co
 Git Bash is an application for Microsoft Windows environments which provides an emulation layer for a Git command line experience.
 
 ## 5. What are the Parts of GitHub?
-- Repositories (যেখানে প্রজেক্টের ফাইল থাকে)
-- Branches (মূল প্রজেক্টের আলাদা ভার্সন নিয়ে কাজ করার জন্য)
-- Commits (ফাইলের পরিবর্তনগুলো সেভ করা)
-- Pull Requests (নিজের করা পরিবর্তন মূল প্রজেক্টে যুক্ত করার অনুরোধ)
-- Issues (বাগ বা টাস্ক ট্র্যাক করার জন্য)
-
+- Repositories
+- Branches 
+- Commits
+- Pull Requests 
+- Issues 
 ## 6. What are the Stages of Git/GitHub?
 1. **Working Directory:** Where you modify files.
 2. **Staging Area:** Where you group files for a commit (`git add`).
