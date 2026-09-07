@@ -24,5 +24,3 @@ Git Bash is an application for Microsoft Windows environments which provides an 
 3. **Local Repository:** Where changes are saved locally (`git commit`).
 4. **Remote Repository:** Where changes are pushed to a remote server like GitHub (`git push`).
 
-## Useful Resource
-[Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
